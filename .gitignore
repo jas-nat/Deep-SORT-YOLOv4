@@ -1,2 +1,4 @@
+.gitignore
 *.weights
 *.h5
+*.python-version
